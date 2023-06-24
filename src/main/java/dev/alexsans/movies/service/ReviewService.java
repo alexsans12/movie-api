@@ -1,5 +1,8 @@
-package dev.alexsans.movies;
+package dev.alexsans.movies.service;
 
+import dev.alexsans.movies.repository.ReviewRepository;
+import dev.alexsans.movies.model.Movie;
+import dev.alexsans.movies.model.Review;
 import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.data.mongodb.core.query.Criteria;
 import org.springframework.data.mongodb.core.query.Update;

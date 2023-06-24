@@ -1,6 +1,7 @@
-package dev.alexsans.movies;
+package dev.alexsans.movies.service;
 
-import org.bson.types.ObjectId;
+import dev.alexsans.movies.repository.MovieRepository;
+import dev.alexsans.movies.model.Movie;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

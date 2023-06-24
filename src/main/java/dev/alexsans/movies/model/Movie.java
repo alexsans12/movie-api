@@ -1,5 +1,6 @@
-package dev.alexsans.movies;
+package dev.alexsans.movies.model;
 
+import dev.alexsans.movies.model.Review;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

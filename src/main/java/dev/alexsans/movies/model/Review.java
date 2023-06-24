@@ -1,4 +1,4 @@
-package dev.alexsans.movies;
+package dev.alexsans.movies.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

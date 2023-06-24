@@ -1,5 +1,6 @@
-package dev.alexsans.movies;
+package dev.alexsans.movies.repository;
 
+import dev.alexsans.movies.model.Movie;
 import org.bson.types.ObjectId;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
